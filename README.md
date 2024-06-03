@@ -1,8 +1,3 @@
-# Personal-Finance-Tracker
-
-Based on the structure of your Excel file, here is a draft for your README file:
-
----
 
 # Personal Finance Tracker
 
@@ -56,7 +51,3 @@ The `Dashboard` sheet provides a high-level overview of your financial situation
 ## Conclusion
 
 The Personal Finance Tracker is a powerful tool to help you manage your finances effectively. By regularly updating and reviewing the data, you can gain valuable insights into your financial health and work towards achieving your financial goals.
-
----
-
-Feel free to customize this README further to better fit your project's specifics and your personal preferences.
